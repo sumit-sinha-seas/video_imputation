@@ -1,1 +1,1 @@
-# video_imputation
+To reproduce Figs, run the jupyter notebook run_experiments.ipynb
